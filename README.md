@@ -145,9 +145,6 @@ Copyright © 2026 sudo1123
 ### 💡 温馨提示
 
 目前 `main.py` 中的关键词（`keyword`）默认写死为 `"2026年6月16日"`，如需测试其他主题，请临时修改 `User_Input.get_keyword()` 方法中的返回值。后续版本将支持命令行参数传入。
-
-[↑ 回到顶部](#deepdigest)
-
 ---
 
 <a name="english-version"></a>
@@ -289,5 +286,3 @@ This project is licensed under the **GNU General Public License v3.0** – see t
 ### 💡 Note for Users
 
 Currently, the keyword in `main.py` is hard-coded to `"2026年6月16日"` for demonstration. To test other topics, temporarily modify the return value in `User_Input.get_keyword()`. Support for command-line arguments will be added in future releases.
-
-[↑ Back to top](#deepdigest)
