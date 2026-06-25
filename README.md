@@ -134,7 +134,7 @@ DeepDigest/
 
 ### 📄 许可证
 
-Copyright © 2026 Qu Qi
+Copyright © 2026 sudo1123
 
 This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](LICENSE) file for details.
 
@@ -276,7 +276,7 @@ This project embraces the spirit of open source. All forms of feedback and contr
 
 ### 📄 License
 
-Copyright © 2026 Qu Qi
+Copyright © 2026 sudo1123
 
 This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](LICENSE) file for details.
 
