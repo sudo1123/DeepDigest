@@ -134,9 +134,11 @@ DeepDigest/
 
 ### 📄 许可证
 
+All source code and configuration files in this repository are licensed under GPL-3.0, unless otherwise noted.
+
 Copyright © 2026 sudo1123
 
-This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](LICENSE) file for details.
+本项目采用 **GNU General Public License v3.0** 许可证 – 详见 [LICENSE](LICENSE) 文件。
 
 ---
 
@@ -275,6 +277,8 @@ This project embraces the spirit of open source. All forms of feedback and contr
 ---
 
 ### 📄 License
+
+All source code and configuration files in this repository are licensed under GPL-3.0, unless otherwise noted.
 
 Copyright © 2026 sudo1123
 
